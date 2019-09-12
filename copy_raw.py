@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+#if you can not run this script, go to ask google or type "set ff:unix" in the command line 
+#and then type enter and save the file via vim editor.
 
 import numpy as np
 import argparse, os
